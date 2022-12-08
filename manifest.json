@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Don't show the sign screen after placement",
+        "name": "No sign screen",
+        "uuid": "13accd98-8230-467c-a99e-29d3547cf975",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "faa74dd9-c4bd-4b4a-ae11-e456728f2c1a",
+            "version": [0, 0, 1]
+        }
+    ]
+}
