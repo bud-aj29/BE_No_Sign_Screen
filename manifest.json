@@ -3,15 +3,15 @@
     "header": {
         "description": "Don't show the sign screen after placement",
         "name": "No sign screen",
-        "uuid": "13accd98-8230-467c-a99e-29d3547cf975",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 18, 0 ]
+        "uuid": "fe207c10-fea0-488b-a14a-0b0ee8b183a0",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
             "description": "",
             "type": "resources",
-            "uuid": "faa74dd9-c4bd-4b4a-ae11-e456728f2c1a",
+            "uuid": "aeceac20-e379-4d56-9423-7f051918b2a8",
             "version": [0, 0, 1]
         }
     ]
