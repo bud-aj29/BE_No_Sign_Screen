@@ -1,0 +1,2 @@
+- Last tested on 1.20.15
+- Don't show the sign screen after placement
